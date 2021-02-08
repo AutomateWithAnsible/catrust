@@ -55,12 +55,4 @@ Example Playbook
         - /path/to/local/files/localhost.localdomain.crt
 ```
 
-License
--------
 
-GPLv3
-
-Author Information
-------------------
-
-David Roble <droble@redhat.com>
